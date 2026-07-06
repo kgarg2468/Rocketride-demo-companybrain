@@ -14,3 +14,10 @@ engine-*.pid
 
 # stray Obsidian / demo artifacts (the live presence note is written at runtime)
 vault/Untitled.canvas
+
+# python venv
+.venv/
+
+# Obsidian per-vault config + stray canvases
+**/.obsidian/
+*.canvas
